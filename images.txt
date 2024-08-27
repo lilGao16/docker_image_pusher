@@ -7,4 +7,4 @@ xhofe/alist:latest
 postgres:latest
 zookeeper:3.5.10
 apache/druid:30.0.0
-wurstmeister/kafka：latest
+wurstmeister/kafka:latest
